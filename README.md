@@ -5,7 +5,7 @@
 --------
 
 <p align="center">
-<img src="https://github.com/olivesgatech/segmentation_corruption/raw/master/resources/scribe.png" alt="Semantic Segmentation">
+<img src="https://github.com/charlieLehman/segmentation_corruption/blob/master/resources/scribe.png" alt="Semantic Segmentation">
 </p>
 
 
